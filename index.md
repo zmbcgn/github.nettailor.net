@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Willkommen auf Nettailor.net! 
 
 Worum geht es hier eigentlich? -> [About](about.md)
